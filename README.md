@@ -23,7 +23,7 @@
 
   # Tela Produto
   ![Captura de tela 2024-05-06 090251](https://github.com/sophia-luna/gc-frontend/assets/137638625/26551be4-3433-4f2b-a754-04d7f5a170dc)
-  Produtos cadastrados e seus respecctivos dados.
+  Produtos cadastrados e seus respectivos dados.
 
     ## Cadastro de produto
     ![Captura de tela 2024-05-06 090301](https://github.com/sophia-luna/gc-frontend/assets/137638625/98e0f7e9-e750-43f8-94f8-936a3c9966d3)
